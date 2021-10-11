@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 I'm intrested in development in many aspects and eager to try new things
 - 📕 Visit my gitee (Chinese) at https://gitee.com/hzhangleung
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhzzleung)](https://github.com/anuraghazra/github-readme-stats)
